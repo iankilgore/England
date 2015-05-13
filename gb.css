@@ -4,7 +4,7 @@ body {
   color: #000000;
 }
 #header {
-    background-color:#663399;
+    background-color:#13abcd;
     color:white;
     text-align:center;
     padding:5px;
@@ -24,7 +24,7 @@ body {
     padding:10px;
 }
 #footer {
-    background-color:#663399;
+    background-color:#00881a;
     color:white;
     clear:both;
     text-align:center;
@@ -64,7 +64,7 @@ h2 {
 font-family:"Arial";
 align:"center";
 font-size: 72;
-background-color:#66a066;
+background-color:#ff00ff;
 color: #000000;
 }
 
