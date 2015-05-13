@@ -52,6 +52,9 @@ a:visited {
 a:hover {
     color: #ff0000;
 }
+img.sectionImage {
+  align:"right";
+}
 
 p {
 font-family:"Comic Sans MS";
